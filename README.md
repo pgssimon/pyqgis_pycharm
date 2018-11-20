@@ -7,5 +7,4 @@ Environment:
 - QGIS 3.2+ (windows standalone 64bit installer)
 - Git for Windows v2.17.1 (optional)
 
-NOTE:
-Copy "C:\Program Files\QGIS 3.2\bin\python36.dll" to "C:\Program Files\QGIS 3.2\apps\Python36\python36.dll"
+
